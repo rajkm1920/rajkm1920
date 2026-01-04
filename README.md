@@ -1,5 +1,3 @@
-### Hi there👋 I'm Raj Kumar Maurya
-
 # Hi there 👋, I'm Raj Kumar Maurya
 
 ## 🚀 About Me
