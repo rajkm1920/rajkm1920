@@ -1,5 +1,8 @@
 ### Hi there👋 I'm Raj Kumar Maurya
 Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in Backend Technologies✍️ as Java, Springboot, MySQL, JSP, HTML, CSS, Bootstrap, Reactjs, gitHub, nodejs.
+Docker, Kubernates
+AWS, 
+Azure
 
 <!--
 **rajkm1920/rajkm1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
