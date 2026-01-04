@@ -35,7 +35,7 @@ I am a **Senior Backend Developer** with **9+ years of experience** in designing
 ## 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/rajkm1920/](https://www.linkedin.com/in/rajkm1920/)
 - **Email:** rajkm1920@rediffmail.com
-- **Portfolio:** [rajkumarmaurya.dev](https://rajkumarmaurya.dev)
+- **Portfolio:** https://rajkm1920.github.io/raj-profile/
 
 ---
 
