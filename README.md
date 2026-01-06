@@ -25,6 +25,20 @@ I am a **Senior Backend Developer** with **9+ years of experience** in designing
 
 ---
 
+## 🌟 Self learning
+- **Cloud:**
+  - **AWS:**
+    - **EC2:**
+    - **Rout53:**
+    - **EKS:**
+
+
+- **AI:**
+  - **Models:**
+    - **OLLAMA:**
+    
+---
+
 ## 📈 GitHub Stats
 ![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajkumarmaurya&show_icons=true&theme=radical)
 
