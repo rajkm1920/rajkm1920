@@ -25,7 +25,7 @@ I am a **Senior Backend Developer** with **9+ years of experience** in designing
 
 ---
 
-## 🌟 Self learning
+## 🌟 Self learning/Interest In
 - **Cloud:**
   - **AWS:**
     - **EC2:**
