@@ -42,7 +42,7 @@ I am a **Senior Backend Developer** with **9+ years of experience** in designing
 ## 📈 Language and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,sql,spring,mysql,git,docker,kubernetes,linux,maven&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,docker,kubernetes,linux,maven&theme=light" />
   </a>
 </p>
 
