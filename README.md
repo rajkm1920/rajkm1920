@@ -39,8 +39,13 @@ I am a **Senior Backend Developer** with **9+ years of experience** in designing
     
 ---
 
-## 📈 GitHub Stats
-![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajkumarmaurya&show_icons=true&theme=radical)
+## 📈 Language and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,sql,spring,mysql,git,docker,kubernetes,linux,maven&theme=light" />
+  </a>
+</p>
+
 
 ---
 
