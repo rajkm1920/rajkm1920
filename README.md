@@ -17,6 +17,16 @@ I am a **Senior Backend Developer** with **9+ years of experience** in designing
 
 ---
 
+
+## 🌟 Secondary Skills
+- ✅ Python, Nodjs
+- ✅ Linux
+- ✅ in Past Work with React and Python DJango Framework
+- ✅ Intersted in learn Go lang, AI Models
+  
+  
+---
+
 ## 🌟 Highlights
 - ✅ Designed and implemented **microservices architecture** for enterprise-level applications.
 - ✅ Hands-on experience with **AWS & Azure deployments**, including EC2, ECS, EKS, and Azure Kubernetes Service.
